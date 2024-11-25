@@ -1,0 +1,26 @@
+html, body {
+    margin: 0;
+    height: 100%;
+}
+#div-icons{
+    position: relative;
+}
+.icons{
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+}
+.card{
+    height: 100%;
+    display: block;
+    margin: auto;
+    padding: 4%;
+}
+.card-title{
+    text-align: center;
+    margin-bottom: 10%;
+}
+.card-body{
+    height: 100%;
+
+}

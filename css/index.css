@@ -1,3 +1,8 @@
+html, body {
+    margin: 0;
+    height: 100%;
+}
+
 #title-home{
     text-align: center;
     color: red;
@@ -23,5 +28,6 @@
 }
 footer{
     text-align: center;
-    background-color: rgb(241, 238, 238);
+    background-color:grey;
+    vertical-align: bottom;
 }
